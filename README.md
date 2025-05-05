@@ -15,7 +15,7 @@
 Clone the repository
 
 ```bash
-https://github.com/entbappy/End-to-end-waste-detection
+https://github.com/Durgeshsingh12712/End-to-End-Waste-Detection-Yolo-V5
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
@@ -128,7 +128,7 @@ newgrp docker
 
 ## Save pass:
 
-s3cEZKH5yytiVnJ3h+eI3qhhzf9q1vNwEi6+q+WGdd+ACRCZ7JD6
+hughhhhghgdhdhfhjjhjhkjkjljllklk;k;k;kk;k;k;k
 
 
 ## Run from terminal:
