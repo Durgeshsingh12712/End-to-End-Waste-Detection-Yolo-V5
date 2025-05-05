@@ -128,7 +128,7 @@ newgrp docker
 
 ## Save pass:
 
-hughhhhghgdhdhfhjjhjhkjkjljllklk;k;k;kk;k;k;k
+secret pass =
 
 
 ## Run from terminal:
