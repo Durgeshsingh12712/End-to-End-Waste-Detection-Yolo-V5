@@ -12,6 +12,7 @@ Data Versioning: Automated data pipeline with validation and versioning
 Model Monitoring: Performance monitoring and drift detection in production
 Scalable Deployment: Containerized deployment with Dockers support
 
+```bash
 📋 Requirements
 System Requirements
 
@@ -20,7 +21,7 @@ CUDA 11.0+ (for GPU training)
 Docker 20.10+
 8GB+ RAM (16GB recommended)
 20GB+ storage space
-
+```
 
 
 # How to run?
@@ -47,6 +48,7 @@ conda activate waste
 pip install -r requirements.txt
 ```
 
+```bash
 Dataset Statistics
 
 Total Images: 15,000+
@@ -65,7 +67,7 @@ Parameters: Learning rate, batch size, epochs, architecture
 Artifacts: Model weights, configuration files, training plots
 Visualizations: Training curves, confusion matrices, prediction samples
 
-
+```
 ```bash
 # Finally run the following command
 python app.py
@@ -75,7 +77,7 @@ Now,
 ```bash
 open up you local host and port
 ```
-
+```bash
 📊 Model Performance
 Latest Model Metrics
 
@@ -138,7 +140,7 @@ Email: Durgeshsingh12712@gmail.com
 YOLOv5 Official Repository
 Waste Detection Datasets
 MLOps Best Practices
-
+```
 # AWS-CICD-Deployment-with-Github-Actions
 
 ## 1. Login to AWS console.
